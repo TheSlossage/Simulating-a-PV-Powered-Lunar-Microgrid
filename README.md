@@ -4,13 +4,13 @@ This repository contains multiple Simulink models for simulating a PV-powered in
 
 ## Contents
 Simulink Models
-- Sensitivity_Analysis.slx
-- Simulation_3221.slx
-- Simulation_3222.slx
-- Simulation_3231.slx
-- Simulation_3232.slx
-- Simulation_3241.slx
-- Parameter_Definitions.m
+- Sensitivity_Analysis.slx - A model for testing the effect of different irradiances on PV Generation
+- Simulation_3221.slx - A model simulating the microgrid performance during a 10 minute period of peak operations
+- Simulation_3222.slx - A model simulating the microgrid performance during a 10 minute period of minimal
+- Simulation_3231.slx - A model simulating the microgrid performance during a 708 hour period on the time scale 1s=1h
+- Simulation_3232.slx - A model simulating the microgrid performance when PV Generation Ceases on the time scale 1s=1h 
+- Simulation_3241.slx - A model simulating the microgrid performance during 18 year period on the time scale 1s=1week
+- Parameter_Definitions.m - Defines variables for simulations
 - `README.md`: This file
 - `LICENSE`: Open-source license
 - `CITATION.cff`: Citation information
