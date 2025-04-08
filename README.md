@@ -1,6 +1,6 @@
 # Feasibility of PV Generation as a sole provider for an industrialized lunar microgrid
 
-This repository contains a Simulink model for simulating a PV-powered industrial lunar microgrid. It is freely available for academic and research use.
+This repository contains multiple Simulink models for simulating a PV-powered industrial lunar microgrid designed for my honours project. It is freely available for academic and research use.
 
 ## Contents
 Simulink Models
