@@ -10,6 +10,7 @@ Simulink Models
 - Simulation_3231.slx - A model simulating the microgrid performance during a 708 hour period on the time scale 1s=1h
 - Simulation_3232.slx - A model simulating the microgrid performance when PV Generation Ceases on the time scale 1s=1h 
 - Simulation_3241.slx - A model simulating the microgrid performance during 18 year period on the time scale 1s=1week
+- Energy_Balance_Sim_3231.slx - A model showing the total PV power generated and the total power load drawn from the grid over the 708 hr simulation
 - Parameter_Definitions.m - Defines variables for simulations
 - `README.md`: This file
 - `LICENSE`: Open-source license
